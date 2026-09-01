@@ -31,7 +31,7 @@ export const cases: Case[] = [
   {
     id: 1,
     title: "The Missing Ring",
-    image: "src/assets/ring.png",
+    image: "/src/assets/ring.png",
     type: "Theft",
     location: "Hawthorne Estate",
     description:
@@ -77,7 +77,7 @@ export const cases: Case[] = [
   {
     id: 2,
     title: "The Missing Painting",
-    image: "src/assets/paint.png",
+    image: "/src/assets/paint.png",
     type: "Art Theft",
     location: "Metropolitan Art Gallery",
     description:
@@ -124,7 +124,7 @@ export const cases: Case[] = [
   {
     id: 3,
     title: "The Locked Door",
-    image: "src/assets/door.png",
+    image: "/src/assets/door.png",
     type: "Mystery",
     location: "Blackwood Manor",
     description:
@@ -171,7 +171,7 @@ export const cases: Case[] = [
   {
     id: 4,
     title: "Midnight Murmur",
-    image: "src/assets/poision.png",
+    image: "/src/assets/poision.png",
     type: "Murder",
     location: "Blackwood Manor Library",
     description:
@@ -217,7 +217,7 @@ export const cases: Case[] = [
   {
     id: 5,
     title: "The Vanishing Cipher",
-    image: "src/assets/Chiper.png",
+    image: "/src/assets/Chiper.png",
     type: "Espionage",
     location: "Grand Central Hotel - Room 407",
     description:
